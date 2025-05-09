@@ -27,8 +27,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ggsspace&bg_color=141414&color=89bdd3&line=89bdd3&point=d3d3d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <a href="https://github.com/ggsgitspace">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide_border=true&bg_color=141414&title_color=f0f8ff&text_color=f0f8ff&icon_color=89bdd3&border_color=6e7681" alt="RResabala2015"/>
+  <a href="https://github.com/ggsspace">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggsspace&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide_border=true&bg_color=141414&title_color=f0f8ff&text_color=f0f8ff&icon_color=89bdd3&border_color=6e7681" alt="RResabala2015"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggsgitspace&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f0f8ff&text_color=f0f8ff&icon_color=89bdd3&border_color=6e7681" alt="RResabala2015"/>
   </a>
 </div>
